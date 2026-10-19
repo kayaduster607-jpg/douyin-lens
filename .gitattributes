@@ -1,0 +1,5 @@
+# 文本统一使用 LF，图片保留二进制内容。
+* text=auto eol=lf
+*.png binary
+*.jpg binary
+*.webp binary
