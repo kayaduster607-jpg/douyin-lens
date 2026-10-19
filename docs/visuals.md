@@ -42,7 +42,7 @@ or change anything else.
 ## 真实运行截图
 
 - `assets/runtime-home.jpg`：启动当前项目后，截图浏览器中的实际首页。
-- `assets/runtime-result.jpg`：对用户提供的公开链接执行真实解析后，截取完整结果卡片。
+- `assets/runtime-result-ai.jpg`：实际解析 [AI 产品宣传片案例](https://v.douyin.com/M8wgmAEea1k/) 后，截取结果卡片；已替换初次发布时的旧案例图，并使用新文件名避免旧图缓存。
 - 使用浏览器原生截图能力，仅选择截图范围，没有改写 DOM、合成作品信息或覆盖清晰度。
 - 第三方作品、人物及其作品画面归对应权利人所有，不属于本项目许可授权内容。
 
